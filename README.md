@@ -15,9 +15,10 @@ Usa as seguintes bibliotecas:
 * [Mustache.java] (https://github.com/spullara/mustache.java).
 * ...
 
+
 Release Notes
 -------------
 
-
+* Primeira Versão sem aplicação de TDD. Apenas a integração das tecnologias.
 
 

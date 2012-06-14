@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Listagem de Contatos</title>
+</head>
+<body>
+	<h1>Listagem de Contatos</h1>
+	
+	<table>
+		<th>Código</th><th>Nome</th><th>Cidade</th>
+		<th>Cód. Área</th> <th>fone</th>
+		{{#iterator}}
+		<tr>
+			<td><a href="/contatos/{{codigo}}">{{codigo}}</a></td>		
+			<td>{{nome}}</td>
+			<td>{{cidade}}</td>
+			<td>{{codigoArea}}</td>
+			<td>{{fone}}</td>
+		</tr>
+		{{/iterator}}
+	</table>
+</body>
+</html>

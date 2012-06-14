@@ -13,10 +13,7 @@ Usa as seguintes bibliotecas:
 
 * [Spark, sinatra clone for java] (http://www.sparkjava.com).
 * [Mustache.java] (https://github.com/spullara/mustache.java).
-* 
-
-
-*View the [source of this content](http://github.github.com/github-flavored-markdown/sample_content.html).*
+* ...
 
 Release Notes
 -------------
